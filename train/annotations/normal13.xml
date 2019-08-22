@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>normal13.jpg</filename>
+	<path>C:\Users\sreen\Downloads\pheeno0\images\normal13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pheeno</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>47</ymin>
+			<xmax>254</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

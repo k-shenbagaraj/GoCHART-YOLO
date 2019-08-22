@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>turnyield3.png</filename>
+	<path>C:\Users\kshen\Desktop\turnyield0\images\turnyield3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Turn Yield</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>44</ymin>
+			<xmax>263</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>
