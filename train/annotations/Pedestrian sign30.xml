@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Pedestrian sign30.png</filename>
+	<path>C:\Users\kshen\Desktop\pdestrian0-20190822T001102Z-001\images\Pedestrian sign30.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pedestrian sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>13</ymin>
+			<xmax>252</xmax>
+			<ymax>40</ymax>
+		</bndbox>
+	</object>
+</annotation>
