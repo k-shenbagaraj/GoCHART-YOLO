@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Traffic signal sign129.png</filename>
+	<path>C:\Users\kshen\Desktop\traffic0-20190821T231059Z-001\images\Traffic signal sign129.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Traffic light sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>99</ymin>
+			<xmax>232</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>
