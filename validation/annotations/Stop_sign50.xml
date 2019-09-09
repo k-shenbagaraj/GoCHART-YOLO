@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Stop_sign50.png</filename>
+	<path>C:\Users\sreen\Downloads\stop0-20190907T212132Z-001\Images\Stop_sign50.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop_Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>10</ymin>
+			<xmax>291</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Right_only_sign140.png</filename>
+	<path>C:\Users\sreen\Downloads\Right_only0-20190907T212109Z-001\Images\Right_only_sign140.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Right_only_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>13</ymin>
+			<xmax>265</xmax>
+			<ymax>48</ymax>
+		</bndbox>
+	</object>
+</annotation>
